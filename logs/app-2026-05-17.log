@@ -1,0 +1,91 @@
+[2026-05-17 00:04:09] [32minfo[39m: [32mKoneksi database berhasil[39m
+[2026-05-17 00:04:09] [32minfo[39m: [32mServer berjalan di http://localhost:3000[39m
+[2026-05-17 00:04:09] [32minfo[39m: [32mEnvironment: development[39m
+[2026-05-17 00:05:43] [32mhttp[39m: [32m[0mPOST /auth/register [31m500[0m 1.930 ms - 71[0m[39m
+[2026-05-17 00:06:16] [32mhttp[39m: [32m[0mPOST /api/auth/register [33m400[0m 261.734 ms - 428[0m[39m
+[2026-05-17 00:08:35] [32minfo[39m: [32mKoneksi database berhasil[39m
+[2026-05-17 00:08:35] [32minfo[39m: [32mServer berjalan di http://localhost:3000[39m
+[2026-05-17 00:08:35] [32minfo[39m: [32mEnvironment: development[39m
+[2026-05-17 00:08:36] [32minfo[39m: [32mKoneksi database berhasil[39m
+[2026-05-17 00:08:36] [32minfo[39m: [32mServer berjalan di http://localhost:3000[39m
+[2026-05-17 00:08:36] [32minfo[39m: [32mEnvironment: development[39m
+[2026-05-17 00:08:39] [32mhttp[39m: [32m[0mPOST /api/auth/register [32m201[0m 171.160 ms - 96[0m[39m
+[2026-05-17 00:10:23] [32mhttp[39m: [32m[0mPOST /api/auth/login [32m200[0m 100.958 ms - 298[0m[39m
+[2026-05-17 00:10:37] [32mhttp[39m: [32m[0mGET /api/users/ [33m401[0m 0.373 ms - 42[0m[39m
+[2026-05-17 00:10:50] [32mhttp[39m: [32m[0mGET /api/users/ [33m403[0m 2.004 ms - 39[0m[39m
+[2026-05-17 00:11:46] [32mhttp[39m: [32m[0mGET /api/users/ [33m403[0m 0.892 ms - 39[0m[39m
+[2026-05-17 00:13:13] [32minfo[39m: [32mKoneksi database berhasil[39m
+[2026-05-17 00:13:13] [32minfo[39m: [32mServer berjalan di http://localhost:3000[39m
+[2026-05-17 00:13:13] [32minfo[39m: [32mEnvironment: development[39m
+[2026-05-17 00:13:19] [32mhttp[39m: [32m[0mGET /api/users/ [33m403[0m 3.838 ms - 43[0m[39m
+[2026-05-17 00:13:45] [32minfo[39m: [32mKoneksi database berhasil[39m
+[2026-05-17 00:13:45] [32minfo[39m: [32mServer berjalan di http://localhost:3000[39m
+[2026-05-17 00:13:45] [32minfo[39m: [32mEnvironment: development[39m
+[2026-05-17 00:13:49] [32mhttp[39m: [32m[0mGET /api/users/ [32m200[0m 83.222 ms - 173[0m[39m
+[2026-05-17 00:24:35] [32minfo[39m: [32mMematikan server...[39m
+[2026-05-17 00:28:30] [32minfo[39m: [32mKoneksi database berhasil[39m
+[2026-05-17 00:28:30] [32minfo[39m: [32mServer berjalan di http://localhost:3000[39m
+[2026-05-17 00:28:30] [32minfo[39m: [32mEnvironment: development[39m
+[2026-05-17 00:29:07] [32mhttp[39m: [32m[0mPOST /api/auth/register [32m201[0m 262.200 ms - 98[0m[39m
+[2026-05-17 00:32:10] [32minfo[39m: [32mKoneksi database berhasil[39m
+[2026-05-17 00:32:10] [32minfo[39m: [32mServer berjalan di http://localhost:3000[39m
+[2026-05-17 00:32:10] [32minfo[39m: [32mEnvironment: development[39m
+[2026-05-17 00:32:25] [32mhttp[39m: [32m[0mPOST /api/auth/register [32m201[0m 164.098 ms - 98[0m[39m
+[2026-05-17 00:34:20] [32minfo[39m: [32mKoneksi database berhasil[39m
+[2026-05-17 00:34:20] [32minfo[39m: [32mServer berjalan di http://localhost:3000[39m
+[2026-05-17 00:34:20] [32minfo[39m: [32mEnvironment: development[39m
+[2026-05-17 00:34:23] [32mhttp[39m: [32m[0mPOST /api/auth/register [33m400[0m 200.052 ms - 50[0m[39m
+[2026-05-17 00:34:39] [32mhttp[39m: [32m[0mPOST /api/auth/register [32m201[0m 111.106 ms - 98[0m[39m
+[2026-05-17 00:36:20] [32minfo[39m: [32mKoneksi database berhasil[39m
+[2026-05-17 00:36:20] [32minfo[39m: [32mServer berjalan di http://localhost:3000[39m
+[2026-05-17 00:36:20] [32minfo[39m: [32mEnvironment: development[39m
+[2026-05-17 00:36:23] [32minfo[39m: [32mMematikan server...[39m
+[2026-05-17 00:37:25] [32minfo[39m: [32mKoneksi database berhasil[39m
+[2026-05-17 00:37:25] [32minfo[39m: [32mServer berjalan di http://localhost:3000[39m
+[2026-05-17 00:37:25] [32minfo[39m: [32mEnvironment: development[39m
+[2026-05-17 00:37:27] [32mhttp[39m: [32m[0mPOST /api/auth/register [32m201[0m 159.222 ms - 97[0m[39m
+[2026-05-17 00:44:10] [32minfo[39m: [32mKoneksi database berhasil[39m
+[2026-05-17 00:44:10] [32minfo[39m: [32mServer berjalan di http://localhost:3000[39m
+[2026-05-17 00:44:10] [32minfo[39m: [32mEnvironment: development[39m
+[2026-05-17 00:44:31] [32mhttp[39m: [32m[0mPOST /api/auth/register [32m201[0m 180.609 ms - 102[0m[39m
+[2026-05-17 00:45:03] [32minfo[39m: [32mKoneksi database berhasil[39m
+[2026-05-17 00:45:03] [32minfo[39m: [32mServer berjalan di http://localhost:3000[39m
+[2026-05-17 00:45:03] [32minfo[39m: [32mEnvironment: development[39m
+[2026-05-17 00:45:05] [32minfo[39m: [32mKoneksi database berhasil[39m
+[2026-05-17 00:45:05] [32minfo[39m: [32mServer berjalan di http://localhost:3000[39m
+[2026-05-17 00:45:05] [32minfo[39m: [32mEnvironment: development[39m
+[2026-05-17 00:46:01] [32minfo[39m: [32mKoneksi database berhasil[39m
+[2026-05-17 00:46:01] [32minfo[39m: [32mServer berjalan di http://localhost:3000[39m
+[2026-05-17 00:46:01] [32minfo[39m: [32mEnvironment: development[39m
+[2026-05-17 00:46:10] [32mhttp[39m: [32m[0mPOST /api/auth/register [33m400[0m 101.615 ms - 50[0m[39m
+[2026-05-17 00:46:23] [32mhttp[39m: [32m[0mPOST /api/auth/register [32m201[0m 106.641 ms - 107[0m[39m
+[2026-05-17 00:46:31] [32minfo[39m: [32mKoneksi database berhasil[39m
+[2026-05-17 00:46:31] [32minfo[39m: [32mServer berjalan di http://localhost:3000[39m
+[2026-05-17 00:46:31] [32minfo[39m: [32mEnvironment: development[39m
+[2026-05-17 00:47:37] [32minfo[39m: [32mKoneksi database berhasil[39m
+[2026-05-17 00:47:37] [32minfo[39m: [32mServer berjalan di http://localhost:3000[39m
+[2026-05-17 00:47:37] [32minfo[39m: [32mEnvironment: development[39m
+[2026-05-17 00:47:51] [32minfo[39m: [32mKoneksi database berhasil[39m
+[2026-05-17 00:47:51] [32minfo[39m: [32mServer berjalan di http://localhost:3000[39m
+[2026-05-17 00:47:51] [32minfo[39m: [32mEnvironment: development[39m
+[2026-05-17 00:47:53] [32minfo[39m: [32mKoneksi database berhasil[39m
+[2026-05-17 00:47:53] [32minfo[39m: [32mServer berjalan di http://localhost:3000[39m
+[2026-05-17 00:47:53] [32minfo[39m: [32mEnvironment: development[39m
+[2026-05-17 00:47:56] [32minfo[39m: [32mKoneksi database berhasil[39m
+[2026-05-17 00:47:56] [32minfo[39m: [32mServer berjalan di http://localhost:3000[39m
+[2026-05-17 00:47:56] [32minfo[39m: [32mEnvironment: development[39m
+[2026-05-17 00:48:38] [32mhttp[39m: [32m[0mPOST /api/auth/register [33m401[0m 1.596 ms - 42[0m[39m
+[2026-05-17 00:48:47] [32minfo[39m: [32mKoneksi database berhasil[39m
+[2026-05-17 00:48:47] [32minfo[39m: [32mServer berjalan di http://localhost:3000[39m
+[2026-05-17 00:48:47] [32minfo[39m: [32mEnvironment: development[39m
+[2026-05-17 00:48:50] [32mhttp[39m: [32m[0mPOST /api/auth/register [32m201[0m 182.363 ms - 107[0m[39m
+[2026-05-17 00:48:54] [32minfo[39m: [32mKoneksi database berhasil[39m
+[2026-05-17 00:48:54] [32minfo[39m: [32mServer berjalan di http://localhost:3000[39m
+[2026-05-17 00:48:54] [32minfo[39m: [32mEnvironment: development[39m
+[2026-05-17 00:49:15] [32mhttp[39m: [32m[0mPOST /api/auth/register [33m401[0m 1.627 ms - 42[0m[39m
+[2026-05-17 00:49:59] [32mhttp[39m: [32m[0mPOST /api/auth/login [32m200[0m 253.020 ms - 323[0m[39m
+[2026-05-17 00:50:24] [32mhttp[39m: [32m[0mPOST /api/auth/register [32m201[0m 110.287 ms - 109[0m[39m
+[2026-05-17 00:51:01] [32minfo[39m: [32mKoneksi database berhasil[39m
+[2026-05-17 00:51:01] [32minfo[39m: [32mServer berjalan di http://localhost:3000[39m
+[2026-05-17 00:51:01] [32minfo[39m: [32mEnvironment: development[39m
+[2026-05-17 00:57:59] [32minfo[39m: [32mMematikan server...[39m
